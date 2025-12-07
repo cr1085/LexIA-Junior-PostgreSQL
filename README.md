@@ -1,3 +1,8 @@
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerventas.png)
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerlexia.png)
+
+
 # LexIA Junior: Asistente Jurídico Inteligente con RAG
 
 **LexIA Junior** es una aplicación web avanzada que funciona como un asistente legal especializado. Utilizando una arquitectura de Generación Aumentada por Recuperación (RAG) sobre una base de conocimiento personalizable, LexIA puede analizar múltiples documentos legales y responder preguntas complejas con respuestas naturales, conversacionales y basadas en fuentes verificables.
