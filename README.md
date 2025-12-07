@@ -98,3 +98,5 @@ flask init-db
 flask run
 ```
 La aplicación estará disponible en `http://127.0.0.1:5000`.
+
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/headerventas.png)
